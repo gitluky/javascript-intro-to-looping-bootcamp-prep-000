@@ -1,4 +1,4 @@
-function loopStrings(loopArray){
+function forLoop(loopArray){
   for (var i = 0; i < 25; i++){
     if (i == 1){
       loopArray.push("I am 1 strange loop")
