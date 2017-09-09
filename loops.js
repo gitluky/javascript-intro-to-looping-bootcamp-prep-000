@@ -1,5 +1,3 @@
-var loopArray = []
-
 function loopStrings(loopArray){
   for (var i = 0; i < 25; i++){
     if (i == 1){
@@ -12,4 +10,4 @@ function loopStrings(loopArray){
   return loopArray
 }
 
-loopStrings([])
+loopStrings([1,2])
