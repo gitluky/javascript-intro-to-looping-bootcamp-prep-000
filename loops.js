@@ -11,3 +11,5 @@ function loopStrings(loopArray){
   }
   return loopArray
 }
+
+loopStrings()
