@@ -10,4 +10,4 @@ function loopStrings(loopArray){
   return loopArray
 }
 
-console.log(loopStrings([1,2]))
+console.log(loopStrings([1,2])
