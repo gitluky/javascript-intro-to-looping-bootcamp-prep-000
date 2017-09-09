@@ -9,5 +9,3 @@ function loopStrings(loopArray){
   }
   return loopArray
 }
-
-loopStrings([1,2])
