@@ -7,8 +7,7 @@ function loopStrings(loopArray){
       loopArray.push("I am ${i} strange loops")
     }
   }
-  console.log(loopArray)
   return loopArray
 }
 
-loopStrings([1,2])
+console.log(loopStrings([1,2]))
