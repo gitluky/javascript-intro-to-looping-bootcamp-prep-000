@@ -1,4 +1,4 @@
-var loopArray = {}
+var loopArray = []
 
 function loopStrings(loopArray){
   for (var i = 0; i < 25; i++){
@@ -12,4 +12,4 @@ function loopStrings(loopArray){
   return loopArray
 }
 
-loopStrings()
+loopStrings([])
